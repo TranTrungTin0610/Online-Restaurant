@@ -44,7 +44,7 @@ const Footer = () => {
     </div>
     <div className="mx-auto py-8 ">
       <p className="text-center text-xs text-black">
-        &copy; Tin-Forder, mọi quyền bảo lưu
+        &copy; Tintech - mọi quyền bảo lưu
       </p>
     </div>
   </Container>

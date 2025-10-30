@@ -27,7 +27,7 @@ const Header = ({userId}:HeaderProps) => {
     <Container>
         <div className="relative px-4 sm:px-6 lg:px-12 flex h-16 items-center"> 
             <Link href={"/"} className="uppercase flex gap-x-2 font-bold text-neutral-700 text-lg md:text-xl">
-                Tin Stores 
+                Tintech Groups
             </Link> 
             {/* Main Navigation Bar */} 
             <MainNav scrolled={scrolled}/>
